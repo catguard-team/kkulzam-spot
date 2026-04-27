@@ -78,3 +78,14 @@
 
 **냐-옹.**
 
+---
+
+## 🧭 자경단 문서 지도
+
+모든 자경단 문서 한눈에: [`.github/DOCS-MAP.md`](https://github.com/catguard-team/.github/blob/main/DOCS-MAP.md)
+
+관련 레포:
+- 🍯 이 레포 (`kkulzam-spot`) — 꿀잠 스팟
+- 🐾 [`saenoyangi-handbook`](https://github.com/catguard-team/saenoyangi-handbook) — 학습 중 꿀팁 필요할 때
+- 🐭 [`jwidori`](https://github.com/catguard-team/jwidori) — 첫 쥐돌이·결과물
+- 📜 [`manifesto`](https://github.com/catguard-team/manifesto) — 안전·강령·운영 참고
